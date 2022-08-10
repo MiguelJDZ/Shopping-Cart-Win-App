@@ -1,0 +1,12 @@
+C:\C#\ShoppingCartApp\ShoppingCartApp\bin\Debug\ShoppingCartApp.exe.config
+C:\C#\ShoppingCartApp\ShoppingCartApp\bin\Debug\ShoppingCartApp.exe
+C:\C#\ShoppingCartApp\ShoppingCartApp\bin\Debug\ShoppingCartApp.pdb
+C:\C#\ShoppingCartApp\ShoppingCartApp\obj\Debug\ShoppingCartApp.Properties.Resources.resources
+C:\C#\ShoppingCartApp\ShoppingCartApp\obj\Debug\ShoppingCartApp.ShoppingCartForm.resources
+C:\C#\ShoppingCartApp\ShoppingCartApp\obj\Debug\ShoppingCartApp.csproj.GenerateResource.cache
+C:\C#\ShoppingCartApp\ShoppingCartApp\obj\Debug\ShoppingCartApp.csproj.CoreCompileInputs.cache
+C:\C#\ShoppingCartApp\ShoppingCartApp\obj\Debug\ShoppingCartApp.exe
+C:\C#\ShoppingCartApp\ShoppingCartApp\obj\Debug\ShoppingCartApp.pdb
+C:\C#\ShoppingCartApp\ShoppingCartApp\obj\Debug\ShoppingCartApp.PrintBooksForm.resources
+C:\C#\ShoppingCartApp\ShoppingCartApp\obj\Debug\ShoppingCartApp.AudioBooksForm.resources
+C:\C#\ShoppingCartApp\ShoppingCartApp\obj\Debug\ShoppingCartApp.csproj.AssemblyReference.cache
