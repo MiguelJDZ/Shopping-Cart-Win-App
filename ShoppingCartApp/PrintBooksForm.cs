@@ -1,12 +1,3 @@
-﻿/*
- * File: PrintBooksForm.cs
- * Author: Miguel Duran 841-17-1372
- * Course: COTI 4150-KJ1 Prof. Antonio F. Huertas
- * Date: 03/27/2021
- * Purpose: This form shows the print books available 
- *          and lets you add them to cart.
- */
-
 using System;
 using System.Windows.Forms;
 
