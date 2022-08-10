@@ -1,13 +1,3 @@
-﻿/*
- * File: ShoppingCartForm.cs
- * Author: Miguel Duran 841-17-1372
- * Course: COTI 4150-KJ1 Prof. Antonio F. Huertas
- * Date: 03/27/2021
- * Purpose: Main for of the shopping cart app where 
- *          everu print book and audio book will join 
- *          reating the whole shopping cart.
- */
-
 using System;
 using System.Windows.Forms;
 
